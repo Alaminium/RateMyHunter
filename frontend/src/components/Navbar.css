@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Lalezar');
+
+.nav {
+  background-color: transparent;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.3rem 1rem;
+}
+
+.nav .title {
+    font-family: 'Lalezar';
+    color: #925fff;
+    font-size: 32px;
+}
+
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav li {
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+
+.nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav a:not(.title) {
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px #3f3f3f;
+  padding: 0.7rem;
+  background-color: rgb(217, 217, 217);
+}
+
+.nav a:hover {
+  color: #6F6F6F;
+}
+
+.nav #signOutBtn {
+  background-color: #ff6a6a;
+}
+.nav #signUpBtn {
+  background-color: #a6c7ed;
+}
