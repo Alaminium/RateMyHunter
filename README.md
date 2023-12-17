@@ -1,3 +1,10 @@
+12/17/2023
+
+I had to copy it here, because it did not let me deploy from https://github.com/CSCI39548-Fall2023/final-project-team-1-ratemyhunter 
+
+It kept saying that I lacked access.
+
+
 CSCI39548 Final Project 
 
 Group 1
@@ -9,9 +16,7 @@ RateMyProfessor exclusively for CUNY Hunter College.
 
 Try it out
 
-Backend Deployment Link:
-
-Frontend Deployment Link:
+Deployment: https://ratemyhunter.onrender.com
 
 
 CITATIONS
